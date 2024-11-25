@@ -52,8 +52,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-playground.*
-playground/*
+playground/
 
 # Translations
 *.mo
